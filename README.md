@@ -2,7 +2,7 @@
 
 >스터디 테스트
 
----js
+```js
 
 function greeting(name, say) {
   console.log(name + ' said ' + say);
@@ -10,4 +10,4 @@ function greeting(name, say) {
 
 greeting('Mr. Park', 'hello!');
 
----
+```
